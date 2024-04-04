@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AND103_thanghtph31577_lab5</string>
+    <string-array name="spinner_price">
+        <item>Tăng dần</item>
+        <item>Giảm dần</item>
+    </string-array>
+</resources>
